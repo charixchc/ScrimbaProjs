@@ -13,6 +13,10 @@ h1 {
     font-family: 'Inter'
 }
 
+p {
+    color: #D2D2D2;
+}
+
 #result-el {
     font-size: 22px;
 }
